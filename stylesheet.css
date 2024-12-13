@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background-color:#2D206F;
+
+}
+
+.center {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
